@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 6.1.7
+     http://www.astropy.org/ -->
+<VOTABLE version="1.4" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ivoa.net/xml/VOTable/v1.3 http://www.ivoa.net/xml/VOTable/VOTable-1.4.xsd">
+ <DESCRIPTION>
+  DECam Shadow Survey pointings converted from eri_pointings.csv
+ </DESCRIPTION>
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="ra" datatype="double" name="ra" ucd="pos.eq.ra;meta.main" unit="deg"/>
+   <FIELD ID="dec" datatype="double" name="dec" ucd="pos.eq.dec;meta.main" unit="deg"/>
+   <FIELD ID="name" arraysize="6" datatype="unicodeChar" name="name"/>
+   <FIELD ID="color" arraysize="4" datatype="unicodeChar" name="color"/>
+   <FIELD ID="radius" datatype="double" name="radius" unit="arcsec"/>
+   <FIELD ID="filter" arraysize="1" datatype="unicodeChar" name="filter"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>55.049339</TD>
+      <TD>-18.580044</TD>
+      <TD>Field1</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>g</TD>
+     </TR>
+     <TR>
+      <TD>54.624471</TD>
+      <TD>-23.027472</TD>
+      <TD>Field2</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>g</TD>
+     </TR>
+     <TR>
+      <TD>51.571778</TD>
+      <TD>-21.335166</TD>
+      <TD>Field3</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>g</TD>
+     </TR>
+     <TR>
+      <TD>56.208088</TD>
+      <TD>-21.91065</TD>
+      <TD>Field4</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>g</TD>
+     </TR>
+     <TR>
+      <TD>53.810654</TD>
+      <TD>-20.373759</TD>
+      <TD>Field5</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>g</TD>
+     </TR>
+     <TR>
+      <TD>55.049339</TD>
+      <TD>-18.580044</TD>
+      <TD>Field1</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>r</TD>
+     </TR>
+     <TR>
+      <TD>54.624471</TD>
+      <TD>-23.027472</TD>
+      <TD>Field2</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>r</TD>
+     </TR>
+     <TR>
+      <TD>51.571778</TD>
+      <TD>-21.335166</TD>
+      <TD>Field3</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>r</TD>
+     </TR>
+     <TR>
+      <TD>56.208088</TD>
+      <TD>-21.91065</TD>
+      <TD>Field4</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>r</TD>
+     </TR>
+     <TR>
+      <TD>53.810654</TD>
+      <TD>-20.373759</TD>
+      <TD>Field5</TD>
+      <TD>blue</TD>
+      <TD>3960</TD>
+      <TD>r</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
